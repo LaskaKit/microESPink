@@ -31,6 +31,7 @@
 #define POWER 47
 #define SDA   42
 #define SCL   2
+#define BAT   9
 
 GxEPD2_3C<GxEPD2_154_Z90c, GxEPD2_154_Z90c::HEIGHT> display(GxEPD2_154_Z90c(SS, DC, RST, BUSY)); // GDEH0154Z90 200x200, SSD1681
 
@@ -47,7 +48,7 @@ void setup() {
   delay(500);
 
   // read ADC and calculate the voltage
-  vBat = analogReadMilliVolts(34) * 1.769 / 1000; // the ratio of divider, R2=1.3M; R1=1M
+  vBat = analogReadMilliVolts(BAT) * 1.769 / 1000; // the ratio of divider, R2=1.3M; R1=1M
 
 
   /*----------- SHT40 -----------*/

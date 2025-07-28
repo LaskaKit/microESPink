@@ -1,9 +1,9 @@
 
-/* Display test for Good Display GDEH0154Z90
+/* Display test for Good Display GDEY0154Z90
  * example from GxEPD2 library is used
  * 
- * Board:   LaskaKit ESPink ESP32 e-Paper   https://www.laskakit.cz/laskakit-espink-esp32-e-paper-pcb-antenna/
- * Display: Good Display GDEH0154Z90         
+ * Board:   LaskaKit microESPink ESP32-S3   https://www.laskakit.cz/laskakit-microespink-esp32-s3-mini-e-paper/
+ * Display: Good Display GDEY0154Z90        https://www.laskakit.cz/good-display-gdey0154z90-1-54--200x200-cerveny-epaper-displej/
  * 
  * Email:podpora@laskakit.cz
  * Web:laskakit.cz
@@ -26,7 +26,7 @@
 //SS/CS       10
 #define DC    48 
 #define RST   45  
-#define BUSY  36 
+#define BUSY  38 
 #define POWER 47
 
 #define SLEEP_SEC 15         // Measurement interval (seconds)

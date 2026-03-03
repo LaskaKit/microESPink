@@ -31,3 +31,33 @@ Skrze USB-C se nabíjí jak baterie, tak probíhá i programování desky. </br>
 Desku je nutné přepnout do režimu nahrávání, to provedeš tímto postupem: připojíš USB-C, zmáčkneš tlačítko FLASH a držíš, zmáčkneš a uvolníš tlačítko RESET a poté uvolníš tlačítko FLASH. </br>
 
 ## MicroESPink je k zakoupení na našem e-shopu [https://www.laskakit.cz/laskakit-microespink-esp32-s3-mini-e-paper/?variantId=17078](https://www.laskakit.cz/laskakit-microespink-esp32-s3-mini-e-paper/?variantId=17078)
+
+| Display | JP1 | JP2 |
+| ------------- | ------------- | ------------- |
+| GDEWO0154T8D | ON | ON |
+| GDEY0154D67 | OFF | ON |
+| GDEY0154Z90 | OFF | OFF |
+| GDEY0213B74 | OFF | ON |
+| GDEW0213TS5D | ON | ON |
+| GDEY027T91 | OFF | ON |
+| GDEWO029TS5D | ON | OFF |
+| GDEY029T94 | OFF | ON |
+| GDEYO29F51H | OFF | OFF |
+| GDEY029T71H | OFF | OFF |
+| GDEY042T81 | OFF | ON |
+| GDEQ042Z21 | ON | OFF |
+| GDEY042Z798 | OFF | OFF |
+| GDEQ0426T82 | OFF | ON |
+| GDEPO565D90 | ON | OFF |
+| GDEQ0583T31 | ON | OFF |
+| GDEQ0583Z31 | ON | OFF |
+| GDEYO7ST7 | ON | OFF |
+| GDEY075Z08 | ON | OFF |
+| GDEM102T91 | OFF | ON |
+| GDEM102Z91 | ON | OFF |
+| GDEM1085T51 | OFF | OFF |
+| GDEY116Z91 | OFF | ON |
+| GDEY116T91 | OFF | ON |
+| GDEY116F51 | OFF | OFF |
+| GDEM133Z91 | OFF | ON |
+| GDEM133T91 | OFF | ON |

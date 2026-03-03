@@ -31,9 +31,9 @@ The board needs to be switched to recording mode, this is done by the following 
 </br>
 ## The microESPink is available on https://www.laskakit.cz/laskakit-microespink-esp32-s3-mini-e-paper/?variantId=17078
 
-| JP1: | R9+R12 | ON/OFF |
-| JP2: | R8+R4 | ON/OFF |
+
 | Display | JP1 | JP2 |
+|| ------------- | ------------- | ------------- |
 | GDEWO0154T8D | ON | ON |
 | GDEY0154D67 | OFF | ON |
 | GDEY0154Z90 | OFF | OFF |

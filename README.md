@@ -46,7 +46,7 @@ The board needs to be switched to recording mode, this is done by the following 
 | GDEY029T71H | OFF | OFF |
 | GDEY042T81 | OFF | ON |
 | GDEQ042Z21 | ON | OFF |
-| GDEY042Z798 | 0OFF | OFF |
+| GDEY042Z798 | OFF | OFF |
 | GDEQ0426T82 | OFF | ON |
 | GDEPO565D90 | ON | OFF |
 | GDEQ0583T31 | ON | OFF |

@@ -33,7 +33,7 @@ The board needs to be switched to recording mode, this is done by the following 
 
 
 | Display | JP1 | JP2 |
-|| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | GDEWO0154T8D | ON | ON |
 | GDEY0154D67 | OFF | ON |
 | GDEY0154Z90 | OFF | OFF |

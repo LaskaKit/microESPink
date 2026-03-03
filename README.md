@@ -33,8 +33,7 @@ The board needs to be switched to recording mode, this is done by the following 
 
 | JP1: | R9+R12 | ON/OFF |
 | JP2: | R8+R4 | ON/OFF |
-| .47R/3.02R |
-| JP1 | = | JP2 |
+| Display | JP1 | JP2 |
 | GDEWO0154T8D | ON | ON |
 | GDEY0154D67 | OFF | ON |
 | GDEY0154Z90 | OFF | OFF |
@@ -43,16 +42,16 @@ The board needs to be switched to recording mode, this is done by the following 
 | GDEY027T91 | OFF | ON |
 | GDEWO029TS5D | ON | OFF |
 | GDEY029T94 | OFF | ON |
-| GDEYO29F51H | OFF | OFF | Tested |
-| GDEY029T71H | OFF | OFF | Tested |
+| GDEYO29F51H | OFF | OFF |
+| GDEY029T71H | OFF | OFF |
 | GDEY042T81 | OFF | ON |
 | GDEQ042Z21 | ON | OFF |
-| GDEY042Z798 | =0OFF | OFF |
+| GDEY042Z798 | 0OFF | OFF |
 | GDEQ0426T82 | OFF | ON |
 | GDEPO565D90 | ON | OFF |
 | GDEQ0583T31 | ON | OFF |
 | GDEQ0583Z31 | ON | OFF |
-| GDEYO7ST7 | ON | OFF | Tested |
+| GDEYO7ST7 | ON | OFF |
 | GDEY075Z08 | ON | OFF |
 | GDEM102T91 | OFF | ON |
 | GDEM102Z91 | ON | OFF |

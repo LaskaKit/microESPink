@@ -42,7 +42,7 @@ Desku je nutné přepnout do režimu nahrávání, to provedeš tímto postupem:
 | GDEY027T91 | OFF | ON |
 | GDEWO029TS5D | ON | OFF |
 | GDEY029T94 | OFF | ON |
-| GDEYO29F51H | OFF | OFF |
+| GDEY029F51H | OFF | OFF |
 | GDEY029T71H | OFF | OFF |
 | GDEY042T81 | OFF | ON |
 | GDEQ042Z21 | ON | OFF |

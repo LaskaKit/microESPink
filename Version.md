@@ -1,4 +1,6 @@
-### Version 1.2
+### Version 1.3
+- IO23, 33,34 disconnected form GND
+#### Version 1.2
 - Fuel Gauge replaced by ESP ADC
 - Epaper BUSY pin changed from IO36 to IO38
 - Epaper CS2 pin changed from IO35 to IO18
